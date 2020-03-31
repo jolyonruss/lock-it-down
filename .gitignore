@@ -35,3 +35,4 @@
 .DS_Store
 
 /app/interface/newrelic_agent.log
+.cache
