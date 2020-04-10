@@ -1,5 +1,5 @@
 ---
-title: The lock down begins
+title: 14-22 March
 date: "2020-03-22T22:12:03.284Z"
 description: ""
 ---
@@ -24,8 +24,8 @@ Welcome to the sights of a strange and quiet NYC during the Covid-19 shutdown. L
 ![Lafayette and Howard](./IMG_9659.jpg)
 > Lafayette and Howard
 
-![Abandoned fruit stand in Chinatown](./IMG_9668.jpg)
-> Abandoned fruit stand in Chinatown
+![Empty fruit stand in Chinatown](./IMG_9668.jpg)
+> Empty fruit stand in Chinatown
 
 ![6th Avenue and 33rd](./IMG_9699.jpg)
 > 6th Avenue and 33rd

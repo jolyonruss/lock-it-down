@@ -1,5 +1,5 @@
 ---
-title: Around Grand Central Station
+title: 23-29 March
 date: "2020-03-29T22:40:32.169Z"
 description: ""
 ---
@@ -7,17 +7,17 @@ description: ""
 ![Park Avenue closed for recreation](./0a612226-3cc6-4cfa-9b97-ba0667076125.jpg)
 > Park Avenue closed for recreation
 
-![Jolyon posing in front of Grand Central Station](./IMG_2389.jpg)
-> Jolyon posing in front of Grand Central Station
+![Upper roadway of Grand Central, normally accessible only to cars](./IMG_9901.jpg)
+> Upper roadway of Grand Central, normally accessible only to cars
 
 ![Jolyon as Vanderbilt](./IMG_2390.jpg)
 > Jolyon as Vanderbilt
 
-![Jolyon in front of the British Galleries 🇬🇧](./IMG_2414.jpg)
-> Jolyon in front of the British Galleries 🇬🇧
+![The British Galleries at the Met 🇬🇧](./IMG_2414.jpg)
+> The British Galleries at the Met 🇬🇧
 
-![Stay home if possible, even if you are health](./IMG_9752.jpg)
-> Stay home if possible, even if you are health
+![Stay home if possible, even if you are healthy.](./IMG_9752.jpg)
+> Stay home if possible, even if you are healthy.
 
 ![Times Square like a zombie movie](./IMG_9803.jpg)
 > Times Square like a zombie movie
@@ -33,9 +33,6 @@ description: ""
 
 ![1st and 4th](./IMG_9870.jpg)
 > 1st and 4th
-
-![Proud New Yorker](./IMG_9901.jpg)
-> Proud New Yorker
 
 ![Rainy foggy Park Avenue](./IMG_9911.jpg)
 > Rainy foggy Park Avenue
