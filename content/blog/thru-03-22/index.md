@@ -4,8 +4,6 @@ date: "2020-03-22T22:12:03.284Z"
 description: ""
 ---
 
-Welcome to the sights of a strange and quiet NYC during the Covid-19 shutdown. Like millions of our neighbors we are sheltering in place, but our bike rides for exercise offer glimpses of how much things have changed.
-
 ![Deserted Times Square](./IMG_2345.jpg)
 > Deserted Times Square
 
