@@ -3,7 +3,7 @@ module.exports = {
     title: `Lock It Down NYC`,
     author: {
       name: `Emma Oppenheim & Jolyon Russ`,
-      summary: `two nerds living in the East Village`
+      summary: ``
     },
     description: `Documenting life in NYC during the COVID-19 lockdown`,
     siteUrl: `https://lock-it-down.now.sh/`,
