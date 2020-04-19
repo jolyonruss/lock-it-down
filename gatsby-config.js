@@ -7,6 +7,7 @@ module.exports = {
     },
     description: `Documenting life in NYC during the COVID-19 lockdown`,
     siteUrl: `https://lock-it-down.now.sh/`,
+    image: "/og_image.jpg",
     social: {
       twitter: `jolyonruss`
     }
@@ -66,7 +67,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`
+        icon: `content/assets/2560px-I_Love_New_York-icon.jpg`
       }
     },
     `gatsby-plugin-react-helmet`,
