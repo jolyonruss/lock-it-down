@@ -7,7 +7,7 @@ module.exports = {
     },
     description: `Documenting life in NYC during the COVID-19 lockdown`,
     siteUrl: `https://lock-it-down.now.sh/`,
-    image: "/og_image.jpg",
+    image: "https://lock-it-down.now.sh/og_image.jpg",
     social: {
       twitter: `jolyonruss`
     }
